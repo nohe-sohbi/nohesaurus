@@ -1,47 +1,32 @@
 ---
-sidebar_position: 1
+id: accueil
+title: Bienvenue sur Nohesaurus
+sidebar_label: Accueil
 ---
 
-# Tutorial Intro
+# Bienvenue sur Nohesaurus
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bienvenue sur ce site dédié à fournir des informations de qualité et des ressources utiles. Vous êtes ici dans un espace conçu pour explorer et partager des connaissances approfondies sur divers sujets.
 
-## Getting Started
+## À propos
 
-Get started by **creating a new site**.
+La mission de ce site est de partager des connaissances approfondies, des analyses perspicaces et des conseils pratiques sur divers sujets. Explorez les différentes sections pour accéder à une mine d'informations bien recherchées.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Derniers Articles
 
-### What you'll need
+Restez informé en consultant les derniers articles. Des sujets pertinents et d'actualité sont abordés pour vous tenir au courant des développements importants.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Titre de l'article 1](/blog/article-1)
+- [Titre de l'article 2](/blog/article-2)
+- [Titre de l'article 3](/blog/article-3)
 
-## Generate a new site
+## Engagement
 
-Generate a new Docusaurus site using the **classic template**.
+L'engagement ici est de maintenir des normes élevées de qualité et d'intégrité dans tout le contenu. Chaque article est soigneusement étudié et rédigé pour offrir une valeur réelle.
 
-The classic template will automatically be added to your project after you run the command:
+## Contact
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Pour toute question, suggestion ou collaboration potentielle, n'hésitez pas à me contacter [sohbi.nohe@gmail.com](/contact). Je suis ouvert aux retours et aux discussions constructives.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Merci de visiter [Nom de votre Site]. Je suis impatient de vous offrir une expérience enrichissante.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
