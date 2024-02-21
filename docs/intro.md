@@ -28,5 +28,4 @@ L'engagement ici est de maintenir des normes élevées de qualité et d'intégri
 
 Pour toute question, suggestion ou collaboration potentielle, n'hésitez pas à me contacter [sohbi.nohe@gmail.com](/contact). Je suis ouvert aux retours et aux discussions constructives.
 
-Merci de visiter [Nom de votre Site]. Je suis impatient de vous offrir une expérience enrichissante.
-
+Enjoy learning.
