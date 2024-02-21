@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: ``,
+        copyright: `31337`,
       },
       prism: {
         theme: prismThemes.github,
